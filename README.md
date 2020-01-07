@@ -1,2 +1,2 @@
 # ensure
-datatype or nullable validation for javascript
+datatype validation for javascript
