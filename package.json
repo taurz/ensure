@@ -1,0 +1,19 @@
+{
+    "name": "ensure",
+    "version": "1.0.0",
+    "description": "https://github.com/taurz/ensure",
+    "main": "dist/ensure.js",
+    "module": "src/index.js",
+    "scripts": {
+        "test": "mocha src/test.js",
+        "build": "webpack --config webpack.config.js"
+    },
+    "keywords": [],
+    "author": "taurz",
+    "license": "MIT",
+    "devDependencies": {
+        "mocha": "^7.0.0",
+        "webpack": "^4.27.1",
+        "webpack-cli": "^3.1.2"
+    }
+}
