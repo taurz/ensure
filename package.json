@@ -9,7 +9,7 @@
         "build": "webpack --config webpack.config.js"
     },
     "publishConfig": { "registry": "https://npm.pkg.github.com/" },
-    "keywords": [],
+    "keywords": ["ensure", "datatype", "validation", "javascript"],
     "author": "taurz",
     "license": "MIT",
     "devDependencies": {
